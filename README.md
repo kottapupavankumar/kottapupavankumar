@@ -16,6 +16,11 @@
 <a href="https://linkedin.com/in/pavan-kumar-kottapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-kumar-kottapu" height="30" width="40" /></a>
 </p>
 
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
